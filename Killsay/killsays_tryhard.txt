@@ -1,0 +1,95 @@
+{name} you lost that duel.
+you got outplayed, {name}.
+that was free, {name}.
+{name} walked right into it.
+bad timing, {name}.
+{name} you peeked too early.
+I was ready for you, {name}.
+{name} that was predictable.
+you gave that away, {name}.
+{name} no chance there.
+you forced it, {name}.
+{name} I saw that coming.
+too easy, {name}.
+{name} you hesitated.
+you overpeeked, {name}.
+{name} that angle was mine.
+{name} you rushed it.
+I had the read on you, {name}.
+{name} you walked into crosshair.
+that was controlled, {name}.
+{name} you misplayed that.
+wrong move, {name}.
+{name} you had no cover.
+I was waiting, {name}.
+{name} that was obvious.
+{name} you lost control.
+you fell for it, {name}.
+{name} I didn’t miss that.
+you got punished, {name}.
+{name} that was mine.
+{name} you overcommitted.
+bad push, {name}.
+{name} you didn’t check it.
+I held that angle, {name}.
+{name} you ran into it.
+{name} that was a free kill.
+you lost that fight, {name}.
+{name} you were exposed.
+that was clean, {name}.
+{name} you didn’t expect it.
+I read that perfectly, {name}.
+{name} you lost the timing.
+that was simple, {name}.
+{name} you got caught.
+{name} I controlled that.
+you gave me that, {name}.
+{name} that was unnecessary.
+you played that wrong, {name}.
+{name} you got shut down.
+I was already there, {name}.
+{name} that was predictable movement.
+you lost that exchange, {name}.
+{name} I had advantage, {name}.
+{name} you forced bad timing.
+that was easy punish, {name}.
+{name} you walked into it.
+you didn’t adapt, {name}.
+{name} that was mine instantly.
+{name} you lost awareness.
+I was holding you, {name}.
+{name} you got clipped.
+{name} that was free control.
+you misread that, {name}.
+{name} I expected that.
+{name} you had no answer.
+that was a bad decision, {name}.
+{name} you overextended.
+you didn’t clear it, {name}.
+{name} I was ready for that, {name}.
+{name} that was too obvious.
+you lost positioning, {name}.
+{name} I controlled the fight, {name}.
+{name} you got read.
+that was your mistake, {name}.
+{name} you ran straight in.
+{name} I was waiting for you.
+you lost that round, {name}.
+{name} that was free damage.
+{name} you didn’t see me.
+I held that perfectly, {name}.
+{name} you lost tempo.
+that was mine to take, {name}.
+{name} you played into it.
+{name} I didn’t need to move.
+you got outplayed again, {name}.
+{name} that was expected.
+you gave space away, {name}.
+{name} I saw every move, {name}.
+{name} that was a clean punish.
+you got deleted, {name}.
+{name} you lost that angle.
+{name} I was already aimed, {name}.
+you walked into it again, {name}.
+{name} that was your opening mistake.
+{name} you didn’t stand a chance.
